@@ -36,10 +36,10 @@ val: 'val/images'
   ```bash
   pip list
   ```
-  In this example case, it's the protobuf module. Reinstall the module with the appropriate version
+  In this example case, it's the protobuf package. Reinstall the package with the appropriate version
   ```bash
-  pip uninstall protobuf          #pip uninstall <module_name>
-  pip install protobuf==3.20.1    #pip install <module_name>==<version>
+  pip uninstall protobuf          #pip uninstall <package_name>
+  pip install protobuf==3.20.1    #pip install <package_name>==<version>
   ```
 
 </details>
