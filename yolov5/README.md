@@ -21,7 +21,7 @@ Copy **coco-demo.yaml** to yolov5/data and **demo_db** (folder of dataset) to yo
  <img style="width:200px;" src="https://github.com/HiMAIayas/Documentation/blob/main/yolov5/assets/yolov5_files.png">
 </div><br>
 
-**In file "coco-demo.yaml"**, change path to the following path (relative path for training images and its value)
+**In file "coco-demo.yaml"**, change path to the following path (relative path for training images and validation images)
  
 ```bash
 path: 'demo_db' 
